@@ -240,6 +240,11 @@ h2 ~ p {
   color: #fff;
 }
 
+.half-hero {
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
+}
 
 /* SOCIAL STYLES */
 .social-list {
@@ -310,6 +315,23 @@ h2 ~ p {
 }
 
 /* HOMEPAGE STYLES */
+
+.home-section h2 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.home-section h4 {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+.home-section .post-header {
+  text-align: center;
+}
+.home-section .blog-posts {
+  margin: auto;
+  width: 75%;
+}
+
 .home-section {
   margin: 6rem auto;
   max-width: 980px;

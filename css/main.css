@@ -240,6 +240,11 @@ h2 ~ p {
   color: #fff;
 }
 
+.half-hero {
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
+}
 
 /* SOCIAL STYLES */
 .social-list {
